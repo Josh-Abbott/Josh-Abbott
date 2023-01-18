@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @JoshMAbbott
+- 👋 Hi, I’m Josh Abbott!
 - 👀 I’m interested in video games, programming, and movies!
 - 🌱 I’m currently working with LUA, C/C++, Python, and Java.
