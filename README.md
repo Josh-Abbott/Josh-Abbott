@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Josh Abbott!
+- 👋 Hi, I’m Josh! I'm merging my previous personal account to this one to take advantage of the GitHub Education program.
 - 👀 I’m interested in video games, programming, and movies!
 - 🌱 I’m currently working with LUA, C/C++, Python, and Java.
