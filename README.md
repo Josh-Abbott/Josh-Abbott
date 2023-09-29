@@ -2,7 +2,7 @@
 
 
 ## 👋 I'm currently pursuing a Bachelors of Science in Computer Science with a minor in Mathematics at Washington State University.
-### I primarily work with _C/C++_ and _Python_ right now as a result of my required coursework. However, I have experience with _Haskell_ and spend a lot of my free time creating with _Lua_.
+### I primarily work with _C/C++_ and _Python_ right now as a result of my required coursework. However, I have experience with _Java_, _Haskell_, and spend a lot of my free time creating with _Lua_.
 
 # Interested in contacting me or learning more?
 ## 🔗 [LinkedIn](https://www.linkedin.com/in/josh-m-abbott/)
