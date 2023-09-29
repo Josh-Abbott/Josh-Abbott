@@ -3,5 +3,5 @@
 I primarily work with _C/C++_ and _Python_ right now as a result of my required coursework. However, I have experience with _Java_, _Haskell_, and spend a lot of my free time creating with _Lua_.
 
 # Interested in contacting me or learning more?
-🔗 [LinkedIn](https://www.linkedin.com/in/josh-m-abbott/)
-📧 [Email](mailto:abbott.m.josh@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/josh-m-abbott/)
+- 📧 [Email](mailto:abbott.m.josh@gmail.com)
