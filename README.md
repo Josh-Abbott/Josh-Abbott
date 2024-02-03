@@ -1,6 +1,6 @@
 # ![Blue Gradient Header Banner](https://github.com/Josh-Abbott/Josh-Abbott/assets/122472243/3fc21bf2-c93b-4efe-9664-ea8637d0f207)
 👋 I'm currently pursuing a Bachelors of Science in Computer Science with a minor in Mathematics at Washington State University.
-I primarily work with _C/C++_ and _Python_ right now as a result of my required coursework. However, I also have experience with _Java_, _Haskell_, _R_, and spend a lot of my free time creating with _Lua_.
+I primarily work with _C/C++_, _C#_, and _Python_ right now as a result of my required coursework. However, I also have experience with _Java_, _JavaScript_, _HTML/CSS_, _Haskell_, _R_, and spend a lot of my free time creating with _Lua_.
 You can find a showcase of some of my personal projects in my [Roblox Portfolio](https://github.com/Josh-Abbott/Roblox-Portfolio).
 
 
