@@ -1,5 +1,5 @@
 # ![Blue Gradient Header Banner](https://github.com/Josh-Abbott/Josh-Abbott/assets/122472243/3fc21bf2-c93b-4efe-9664-ea8637d0f207)
-👋 I'm recently completed pursuing a Bachelors of Science in Computer Science with a minor in Mathematics at Washington State University.
+👋 I've recently completed pursuing a Bachelors of Science in Computer Science with a minor in Mathematics at Washington State University.
 I primarily work with _C/C++_, _HTML/CSS_, and _JavaScript_ right now as a result of my required coursework. However, I also have experience with _C#_, _Python_, _Java_, _Haskell_, _R_, and spend a lot of my free time creating with _Lua_.
 You can find a showcase of some of my personal projects in my [Portfolio Website](https://josh-abbott.github.io).
 
